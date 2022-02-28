@@ -1,2 +1,5 @@
 # LGVM-Task-4
-LGVM Web Development Intern
+LetsGrowMore Virtual Internship Program
+Web Development Intern
+
+A Simple Calculator using HTML, CSS, JavaScript
